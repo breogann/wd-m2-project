@@ -88,7 +88,7 @@ POST - 'trip/:id/delete' - Handles deletion.
 - passwordHashAndSalt: String, required
 - picture: String
 - City: String, required
-- Zip code (for map, not for profile info)
+- Zip code (for map, not for profile info): string
 - LinkedIn (extra: api?)
 - Trips
 - Job title
