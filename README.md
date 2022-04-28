@@ -100,6 +100,7 @@ POST - 'trip/:id/delete' - Handles deletion.
 - date of event
 - location of event
 - picture
+- attendees
 
 #### Trips
 
@@ -108,10 +109,11 @@ POST - 'trip/:id/delete' - Handles deletion.
 
 #### Messages
 
-- Message
-- User
-- Date
-- Recipient
+- message
+- sender
+- recipient
+- createdAt
+- updatedAt
 
 #### Mentor/mentoree (?)
 

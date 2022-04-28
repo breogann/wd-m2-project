@@ -1,15 +1,17 @@
 # STEPS
 
-| Step            | Description        | Technology         | Comments |
-| --------------- | ------------------ | ------------------ | -------- |
-| Setup           |                    | Git, dotenv        |          |
-| Views           | Layouts & partials | hbs                |          |
-| Models          |                    | mongoose           |          |
-| Routes          |                    | express            |          |
-| Authentication  |                    |                    |          |
-| Middleware      |                    |                    |          |
-| Form validation |                    | Multer, cloudinary |          |
-| E-mails         |                    | nodemailer         |          |
+| Step            | Description        | Technology           | Comments |
+| --------------- | ------------------ | -------------------- | -------- |
+| Setup           |                    | Git, dotenv, nodemon |          |
+| Views           | Layouts & partials | HBS                  |          |
+| Models          |                    | Mongoose             |          |
+| Routes          |                    | Express              |          |
+| Authentication  |                    |                      |          |
+| Middleware      |                    |                      |          |
+| Form validation |                    | Multer, cloudinary   |          |
+| E-mails         |                    | Nodemailer           |          |
+| Deployment      |                    | Heroku               |          |
+| Front           | Styles             | SCSS                 |          |
 
 ### 0. Repository
 
